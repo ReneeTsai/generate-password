@@ -28,13 +28,7 @@
 git clone https://github.com/ReneeTsai/generate-password.git
 ```
 
-2.終端機輸入指令進入專案資料夾
-
-```
-cd restaurantList
-```
-
-3.install npm / express / express-handlebars@3.0.0
+2..install npm / express / express-handlebars@3.0.0
 
 ```
 npm install
@@ -48,14 +42,14 @@ npm i express
 npm i express-handlebars@3.0.0
 ```
 
-4.uccess on terminal : "The express server is running on localhost:3000"
+3.uccess on terminal : "The express server is running on localhost:3000"
 
 ```
 nodemon app.js
 
 ```
 
-5.open web
+4.open web
 
 ```
 
@@ -63,7 +57,7 @@ http://localhost:3000
 
 ```
 
-## 開發工具
+## Tool
 
 - node.js
 - npm
